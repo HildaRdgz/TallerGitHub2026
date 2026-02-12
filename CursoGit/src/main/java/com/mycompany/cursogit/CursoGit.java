@@ -12,5 +12,6 @@ public class CursoGit {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("Realizado el 12 de febrero del 2026.");
     }
 }
